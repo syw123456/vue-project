@@ -1,4 +1,4 @@
-# cloud-music
+# Vue-project
 
 > A Vue.js project
 
