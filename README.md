@@ -32,3 +32,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 To get started:
      npm install
      npm run dev
+#please join us
+1302413950@qq.com Wechat
+     
